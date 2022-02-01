@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAGA MA", "PAGA MA.csproj", "{1C66E3A4-8777-45A8-9540-D1675C392A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C66E3A4-8777-45A8-9540-D1675C392A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C66E3A4-8777-45A8-9540-D1675C392A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C66E3A4-8777-45A8-9540-D1675C392A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C66E3A4-8777-45A8-9540-D1675C392A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0909BDA1-59B7-4523-99AB-F768AD41A328}
+	EndGlobalSection
+EndGlobal
