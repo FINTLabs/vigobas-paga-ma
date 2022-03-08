@@ -1,5 +1,3 @@
-# vigobas-paga-ma
-
 # VIGOBAS Paga MA
 
 ## Description
